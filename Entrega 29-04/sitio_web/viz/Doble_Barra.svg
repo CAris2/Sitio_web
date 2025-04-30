@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 928 627" style="enable-background:new 0 0 928 627;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#4A90E2;}
+	.st2{fill:#BE192D;}
+	.st3{fill:none;stroke:#000000;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:10px;}
+	.st6{fill:#7B7B7B;}
+	.st7{font-family:'Arial-BoldMT';}
+	.st8{font-size:12px;}
+</style>
+<rect id="background" y="27" class="st0" width="805" height="600"/>
+<g transform="translate(50,20)">
+	<g>
+		<rect id="undefined_-_Aprueban" x="5" y="563" class="st1" width="49.5" height="24"/>
+		<rect id="undefined_-_Reprueban" x="55.4" y="379" class="st2" width="49.5" height="208"/>
+		
+			<rect id="undefined_-_Aprueban_00000004524164007845249390000006722076507057127561_" x="110.8" y="507" class="st1" width="49.5" height="80"/>
+		
+			<rect id="undefined_-_Reprueban_00000181769707320645192350000001952522382122949797_" x="161.3" y="315" class="st2" width="49.5" height="272"/>
+		
+			<rect id="undefined_-_Aprueban_00000086693603281252517680000011461549352914897318_" x="428.4" y="499" class="st1" width="49.5" height="88"/>
+		
+			<rect id="undefined_-_Reprueban_00000040560148855702167230000014510387567663018881_" x="478.9" y="115" class="st2" width="49.5" height="472"/>
+		
+			<rect id="undefined_-_Aprueban_00000059300322860531355350000018024866146505870524_" x="322.5" y="427" class="st1" width="49.5" height="160"/>
+		
+			<rect id="undefined_-_Reprueban_00000124131793364110754280000009897763940017003143_" x="373" y="211" class="st2" width="49.5" height="376"/>
+		
+			<rect id="undefined_-_Aprueban_00000142888986525671234960000001973429145366604988_" x="534.3" y="147" class="st1" width="49.5" height="440"/>
+		
+			<rect id="undefined_-_Reprueban_00000116211846223334511830000016002244603251957426_" x="584.7" y="243" class="st2" width="49.5" height="344"/>
+		
+			<rect id="undefined_-_Aprueban_00000183944588478025791310000005202612147219103134_" x="216.7" y="275" class="st1" width="49.5" height="312"/>
+		
+			<rect id="undefined_-_Reprueban_00000086661059883974377920000002346535606576788666_" x="267.1" y="419" class="st2" width="49.5" height="168"/>
+		
+			<rect id="undefined_-_Aprueban_00000062157072085598530610000012427650066866822072_" x="640.1" y="35" class="st1" width="49.5" height="552"/>
+		
+			<rect id="undefined_-_Reprueban_00000143608752989004246080000006646865578634451864_" x="690.6" y="179" class="st2" width="49.5" height="408"/>
+	</g>
+	<g id="xAxis" transform="translate(0,560)">
+		<path class="st3" d="M0.5,27.5h745"/>
+		<g transform="translate(54.91941636467676,0)">
+			<line class="st3" x1="0" y1="27" x2="0" y2="33"/>
+			<text transform="matrix(1 0 0 1 -5.5615 43.1)" class="st4 st5">2021-2</text>
+		</g>
+		<g transform="translate(160.77961090978454,0)">
+			<line class="st3" x1="0" y1="27" x2="0" y2="33"/>
+			<text transform="matrix(1 0 0 1 -5.5615 43.1)" class="st4 st5">2022-1</text>
+		</g>
+		<g transform="translate(266.63980545489227,0)">
+			<line class="st3" x1="0" y1="27" x2="0" y2="33"/>
+			<text transform="matrix(1 0 0 1 -5.5616 43.1)" class="st4 st5">2022-2</text>
+		</g>
+		<g transform="translate(372.5,0)">
+			<line class="st3" x1="0" y1="27" x2="0" y2="33"/>
+			<text transform="matrix(1 0 0 1 -5.5615 43.1)" class="st4 st5">2023-1</text>
+		</g>
+		<g transform="translate(478.3601945451078,0)">
+			<line class="st3" x1="0" y1="27" x2="0" y2="33"/>
+			<text transform="matrix(1 0 0 1 -5.5616 43.1)" class="st4 st5">2023-2</text>
+		</g>
+		<g transform="translate(584.2203890902156,0)">
+			<line class="st3" x1="0" y1="27" x2="0" y2="33"/>
+			<text transform="matrix(1 0 0 1 -5.5615 43.1)" class="st4 st5">2024-1</text>
+		</g>
+		<g transform="translate(690.0805836353233,0)">
+			<line class="st3" x1="0" y1="27" x2="0" y2="33"/>
+			<text transform="matrix(1 0 0 1 -8.3423 43.1)" class="st4 st5">2024-2</text>
+		</g>
+	</g>
+	<g id="yAxis">
+		<path class="st3" d="M0.5,587.5v-560"/>
+		<g transform="translate(0,560.5)">
+			<line class="st3" x1="0" y1="27" x2="-6" y2="27"/>
+			<text transform="matrix(1 0 0 1 -14.5615 30.2)" class="st4 st5">0</text>
+		</g>
+		<g transform="translate(0,520.5)">
+			<line class="st3" x1="0" y1="27" x2="-6" y2="27"/>
+			<text transform="matrix(1 0 0 1 -14.5615 30.2)" class="st4 st5">5</text>
+		</g>
+		<g transform="translate(0,480.50000000000006)">
+			<line class="st3" x1="0" y1="27" x2="-6" y2="27"/>
+			<text transform="matrix(1 0 0 1 -20.123 30.2)" class="st4 st5">10</text>
+		</g>
+		<g transform="translate(0,440.5)">
+			<line class="st3" x1="0" y1="27" x2="-6" y2="27"/>
+			<text transform="matrix(1 0 0 1 -20.123 30.2)" class="st4 st5">15</text>
+		</g>
+		<g transform="translate(0,400.5)">
+			<line class="st3" x1="0" y1="27" x2="-6" y2="27"/>
+			<text transform="matrix(1 0 0 1 -20.123 30.2)" class="st4 st5">20</text>
+		</g>
+		<g transform="translate(0,360.49999999999994)">
+			<line class="st3" x1="0" y1="27" x2="-6" y2="27"/>
+			<text transform="matrix(1 0 0 1 -20.123 30.2)" class="st4 st5">25</text>
+		</g>
+		<g transform="translate(0,320.5)">
+			<line class="st3" x1="0" y1="27" x2="-6" y2="27"/>
+			<text transform="matrix(1 0 0 1 -20.123 30.2)" class="st4 st5">30</text>
+		</g>
+		<g transform="translate(0,280.5)">
+			<line class="st3" x1="0" y1="27" x2="-6" y2="27"/>
+			<text transform="matrix(1 0 0 1 -20.123 30.2)" class="st4 st5">35</text>
+		</g>
+		<g transform="translate(0,240.50000000000003)">
+			<line class="st3" x1="0" y1="27" x2="-6" y2="27"/>
+			<text transform="matrix(1 0 0 1 -20.123 30.2)" class="st4 st5">40</text>
+		</g>
+		<g transform="translate(0,200.49999999999997)">
+			<line class="st3" x1="0" y1="27" x2="-6" y2="27"/>
+			<text transform="matrix(1 0 0 1 -20.123 30.2)" class="st4 st5">45</text>
+		</g>
+		<g transform="translate(0,160.5)">
+			<line class="st3" x1="0" y1="27" x2="-6" y2="27"/>
+			<text transform="matrix(1 0 0 1 -20.123 30.2)" class="st4 st5">50</text>
+		</g>
+		<g transform="translate(0,120.50000000000001)">
+			<line class="st3" x1="0" y1="27" x2="-6" y2="27"/>
+			<text transform="matrix(1 0 0 1 -20.123 30.2)" class="st4 st5">55</text>
+		</g>
+		<g transform="translate(0,80.50000000000003)">
+			<line class="st3" x1="0" y1="27" x2="-6" y2="27"/>
+			<text transform="matrix(1 0 0 1 -20.123 30.2)" class="st4 st5">60</text>
+		</g>
+		<g transform="translate(0,40.499999999999986)">
+			<line class="st3" x1="0" y1="27" x2="-6" y2="27"/>
+			<text transform="matrix(1 0 0 1 -20.123 30.2)" class="st4 st5">65</text>
+		</g>
+		<g transform="translate(0,0.5)">
+			<line class="st3" x1="0" y1="27" x2="-6" y2="27"/>
+			<text transform="matrix(1 0 0 1 -20.123 30.2)" class="st4 st5">70</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 755 593)" class="st6 st7 st8">Semestre</text>
+	<text transform="matrix(1 0 0 1 -31.541 16.2852)" class="st6 st7 st8">Cantidad</text>
+	<rect x="754.5" y="37.3" class="st1" width="71" height="20.8"/>
+	<rect x="754.5" y="106.4" class="st2" width="71" height="20.8"/>
+	<text transform="matrix(1 0 0 1 758.5723 75.9287)" class="st6 st7 st8">Aprobados</text>
+	<text transform="matrix(1 0 0 1 754.5 144.5459)" class="st6 st7 st8">Desaprobados</text>
+</g>
+</svg>

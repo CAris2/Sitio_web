@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 944 624" style="enable-background:new 0 0 944 624;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#1F77B4;}
+	.st2{fill:#FF7F0E;}
+	.st3{fill:none;stroke:#000000;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:10px;}
+	.st6{fill:#7B7B7B;}
+	.st7{font-family:'Arial-BoldMT';}
+	.st8{font-size:12px;}
+</style>
+<rect id="background" y="24" class="st0" width="805" height="600"/>
+<g id="viz">
+	<g id="Aprueban">
+		<rect x="51" y="590" class="st1" width="105.3" height="14"/>
+		<rect x="157.3" y="557.3" class="st1" width="105.3" height="46.7"/>
+		<rect x="476.1" y="552.7" class="st1" width="105.3" height="51.3"/>
+		<rect x="369.9" y="510.7" class="st1" width="105.3" height="93.3"/>
+		<rect x="582.4" y="347.3" class="st1" width="105.3" height="256.7"/>
+		<rect x="263.6" y="422" class="st1" width="105.3" height="182"/>
+		<rect x="688.7" y="282" class="st1" width="105.3" height="322"/>
+	</g>
+	<g id="Reprueban">
+		<rect x="51" y="468.7" class="st2" width="105.3" height="121.3"/>
+		<rect x="157.3" y="398.7" class="st2" width="105.3" height="158.7"/>
+		<rect x="476.1" y="277.3" class="st2" width="105.3" height="275.3"/>
+		<rect x="369.9" y="291.3" class="st2" width="105.3" height="219.3"/>
+		<rect x="582.4" y="146.7" class="st2" width="105.3" height="200.7"/>
+		<rect x="263.6" y="324" class="st2" width="105.3" height="98"/>
+		<rect x="688.7" y="44" class="st2" width="105.3" height="238"/>
+	</g>
+	<g id="xAxis" transform="translate(0,560)">
+		<path class="st3" d="M50.5,44.5h745"/>
+		<g transform="translate(53.642282650325555,0)">
+			<line class="st3" x1="50" y1="44" x2="50" y2="50"/>
+			<text transform="matrix(1 0 0 1 44.4385 60.1)" class="st4 st5">29</text>
+		</g>
+		<g transform="translate(159.92818843355036,0)">
+			<line class="st3" x1="50" y1="44" x2="50" y2="50"/>
+			<text transform="matrix(1 0 0 1 44.4385 60.1)" class="st4 st5">44</text>
+		</g>
+		<g transform="translate(266.21409421677515,0)">
+			<line class="st3" x1="50" y1="44" x2="50" y2="50"/>
+			<text transform="matrix(1 0 0 1 44.4385 60.1)" class="st4 st5">60</text>
+		</g>
+		<g transform="translate(372.5,0)">
+			<line class="st3" x1="50" y1="44" x2="50" y2="50"/>
+			<text transform="matrix(1 0 0 1 44.4385 60.1)" class="st4 st5">67</text>
+		</g>
+		<g transform="translate(478.7859057832248,0)">
+			<line class="st3" x1="50" y1="44" x2="50" y2="50"/>
+			<text transform="matrix(1 0 0 1 44.4384 60.1)" class="st4 st5">70</text>
+		</g>
+		<g transform="translate(585.0718115664496,0)">
+			<line class="st3" x1="50" y1="44" x2="50" y2="50"/>
+			<text transform="matrix(1 0 0 1 44.4384 60.1)" class="st4 st5">98</text>
+		</g>
+		<g transform="translate(691.3577173496744,0)">
+			<line class="st3" x1="50" y1="44" x2="50" y2="50"/>
+			<text transform="matrix(1 0 0 1 41.6577 60.1)" class="st4 st5">120</text>
+		</g>
+	</g>
+	<g id="yAxis">
+		<path class="st3" d="M50.5,604.5v-560"/>
+		<g transform="translate(0,560.5)">
+			<line class="st3" x1="50" y1="44" x2="44" y2="44"/>
+			<text transform="matrix(1 0 0 1 35.4385 47.2)" class="st4 st5">0</text>
+		</g>
+		<g transform="translate(0,513.8333333333333)">
+			<line class="st3" x1="50" y1="44" x2="44" y2="44"/>
+			<text transform="matrix(1 0 0 1 29.877 47.2)" class="st4 st5">10</text>
+		</g>
+		<g transform="translate(0,467.1666666666667)">
+			<line class="st3" x1="50" y1="44" x2="44" y2="44"/>
+			<text transform="matrix(1 0 0 1 29.877 47.2)" class="st4 st5">20</text>
+		</g>
+		<g transform="translate(0,420.5)">
+			<line class="st3" x1="50" y1="44" x2="44" y2="44"/>
+			<text transform="matrix(1 0 0 1 29.877 47.2)" class="st4 st5">30</text>
+		</g>
+		<g transform="translate(0,373.83333333333337)">
+			<line class="st3" x1="50" y1="44" x2="44" y2="44"/>
+			<text transform="matrix(1 0 0 1 29.877 47.2)" class="st4 st5">40</text>
+		</g>
+		<g transform="translate(0,327.16666666666663)">
+			<line class="st3" x1="50" y1="44" x2="44" y2="44"/>
+			<text transform="matrix(1 0 0 1 29.877 47.2)" class="st4 st5">50</text>
+		</g>
+		<g transform="translate(0,280.5)">
+			<line class="st3" x1="50" y1="44" x2="44" y2="44"/>
+			<text transform="matrix(1 0 0 1 29.877 47.2)" class="st4 st5">60</text>
+		</g>
+		<g transform="translate(0,233.83333333333331)">
+			<line class="st3" x1="50" y1="44" x2="44" y2="44"/>
+			<text transform="matrix(1 0 0 1 29.877 47.2)" class="st4 st5">70</text>
+		</g>
+		<g transform="translate(0,187.16666666666669)">
+			<line class="st3" x1="50" y1="44" x2="44" y2="44"/>
+			<text transform="matrix(1 0 0 1 29.877 47.2)" class="st4 st5">80</text>
+		</g>
+		<g transform="translate(0,140.5)">
+			<line class="st3" x1="50" y1="44" x2="44" y2="44"/>
+			<text transform="matrix(1 0 0 1 29.877 47.2)" class="st4 st5">90</text>
+		</g>
+		<g transform="translate(0,93.83333333333331)">
+			<line class="st3" x1="50" y1="44" x2="44" y2="44"/>
+			<text transform="matrix(1 0 0 1 24.3154 47.2)" class="st4 st5">100</text>
+		</g>
+		<g transform="translate(0,47.166666666666686)">
+			<line class="st3" x1="50" y1="44" x2="44" y2="44"/>
+			<text transform="matrix(1 0 0 1 25.0576 47.2)" class="st4 st5">110</text>
+		</g>
+		<g transform="translate(0,0.5)">
+			<line class="st3" x1="50" y1="44" x2="44" y2="44"/>
+			<text transform="matrix(1 0 0 1 24.3154 47.2)" class="st4 st5">120</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 805 610.0004)" class="st6 st7 st8">Inscripciones</text>
+	<rect x="835" y="60" class="st2" width="58.8" height="21"/>
+	<text transform="matrix(1 0 0 1 822.9998 101.9999)" class="st6 st7 st8">Desaprobados</text>
+	<text transform="matrix(1 0 0 1 823.8755 168.2167)" class="st6 st7 st8">Aprobados</text>
+	<rect x="835" y="130.7" class="st1" width="58.8" height="21"/>
+</g>
+</svg>
